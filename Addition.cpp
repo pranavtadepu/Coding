@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"Karthik Qualcomm";
-    return 0;
+    int a,b;
+    cin>>a>>b;
+    cout<<a+b;
 }
